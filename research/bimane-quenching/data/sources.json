@@ -1,0 +1,40 @@
+{
+  "retrieved": "2026-11-25",
+  "bundled_inputs": [
+    {
+      "path": "data/structures/1L63.pdb",
+      "url": "https://files.rcsb.org/download/1L63.pdb",
+      "sha256": "dbc42255d5f5670725b4f93c00bc58b9996d32437172949081aa0a493caf0825"
+    },
+    {
+      "path": "data/structures/2A3D.pdb",
+      "url": "https://files.rcsb.org/download/2A3D.pdb",
+      "sha256": "e005168c6fd31f5e11f036206ed4cbb5769b7ccf021c9a251d753901e595311f"
+    },
+    {
+      "path": "data/structures/9PHR.pdb",
+      "url": "https://files.rcsb.org/download/9PHR.pdb",
+      "sha256": "73f289d1c85bfb71e985d47eb0745bdf973600477683d489c1f0b6695d7e1a4b"
+    },
+    {
+      "path": "data/experimental/figure4a_pixels.csv",
+      "derived_from": "Figure 4 in Jones Brunette & Farrens 2014, PDF page 6",
+      "sha256": "974fe523b51ce43bcb9fe748786d6357c4bce8a4c63859f1410e75f5eca6679c"
+    },
+    {
+      "path": "data/experimental/figure4c_pixels.csv",
+      "derived_from": "Figure 4 in Jones Brunette & Farrens 2014, PDF page 6",
+      "sha256": "c2e566a8d74d90ac7111f63e7c5b46701d96b6fff3427a2bd393cc9ab3bfe721"
+    }
+  ],
+  "reference_pdfs": [
+    {
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4196733.1/PMC4196733.1.pdf",
+      "sha256": "3ab5488ce5af78defe8fbbf254926ed8302b661b1acd2a57c78eece49a1ad94f"
+    },
+    {
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4196733.1/bi500493r_si_001.pdf",
+      "sha256": "5ff69d4029a07bd59c6dc243262ac340b4ad2539443db13486e65fcb4753456b"
+    }
+  ]
+}

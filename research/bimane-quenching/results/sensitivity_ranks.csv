@@ -1,0 +1,10 @@
+setting,geometry_rho,distance_rho,valid_pairs
+primary,0.82078268,0.9,5
+contact_3.5,,0.9,5
+contact_4.0,0.70710678,0.9,5
+contact_5.0,0.82078268,0.9,5
+contact_5.5,0.82078268,0.9,5
+overlap_0.20,,0.9,3
+overlap_0.40,0.82078268,0.9,5
+grid_shift_7.5,0.82078268,0.9,5
+dense_linker,0.82078268,0.9,5

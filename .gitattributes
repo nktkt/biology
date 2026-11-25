@@ -1,0 +1,7 @@
+* text=auto
+*.csv text eol=lf
+*.fasta text eol=lf
+*.pdb -text whitespace=-trailing-space
+*.pdf binary
+*.png binary
+*.docx binary
